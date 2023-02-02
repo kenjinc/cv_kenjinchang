@@ -11,9 +11,9 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ### Education
 
-* **Cornell University**
+* **Cornll University**
   + PhD in Human Behavior & Design (Degree in Progress)
-* **Johns Hopkins Bloomberg School of Public Health**
+* **JohnsHopkins Bloomberg School of Public Health**
   + MSPH in Health Education & Health Communication (2020)
   + Certificate in Food Systems, the Environment, & Public Health (2019)
   + Certificate in Health Communications (2019)
@@ -23,13 +23,13 @@ knitr::opts_chunk$set(echo = TRUE)
   
 ### Research Experience
 
-* **Center for a Livable Future**
+* **Center for aLivable Future**
   + Research Program Coordinator for Diet, Health, and Planetary Boundaries (2019-2022)
   
   * **Center for Excellence in Regulatory Science & Innovation** 
     + Graduate Research Assistant for Response and Exposure to Advertising Study (2018-2019) 
     
-  * **Perception & Learning Laboratory**
+  * **Perception& Learning Laboratory**
     + Undergraduate Researcher in Associative & Attention-Based Learning (2016-2018)
     
   * **Close Relationships & Health Laboratory**
