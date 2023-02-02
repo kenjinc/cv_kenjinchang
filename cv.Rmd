@@ -1,12 +1,13 @@
 ---
 title: "Kenjin Chang"
-date: "Last Updated: February 2, 2023"
 output: html_document
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
+
+<center> Last Updated: February 2, 2023 </center>
 
 ### Education
 
