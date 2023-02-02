@@ -11,7 +11,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ### Education
 
-* **Cornell University**
+* **CornEll University**
   + PhD in Human Behavior & Design (Degree in Progress)
 * **JohnsHopkins Bloomberg School of Public Health**
   + MSPH in Health Education & Health Communication (2020)
