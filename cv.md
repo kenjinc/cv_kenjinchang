@@ -1,0 +1,83 @@
+Kenjin Chang
+================
+
+<center>
+Last Updated: March 6, 2023
+</center>
+
+### Education
+
+-   **Cornell University**
+    -   PhD in Human Behavior & Design (Degree in Progress)
+-   **Johns Hopkins Bloomberg School of Public Health**
+    -   MSPH in Health Education & Health Communication (2020)
+    -   Certificate in Food Systems, the Environment, & Public Health
+        (2019)
+    -   Certificate in Health Communications (2019)
+-   **University of Delaware**
+    -   BS (Hons) in Neuroscience (2017)
+    -   BA in Psychology (2018)
+
+### Research Experience
+
+-   **Center for a Livable Future**
+    -   Research Program Coordinator for Diet, Health, and Planetary
+        Boundaries (2019-2022)
+-   **Center for Excellence in Regulatory Science & Innovation**
+    -   Graduate Research Assistant for Response and Exposure to
+        Advertising Study (2018-2019)
+-   **Perception & Learning Laboratory**
+    -   Undergraduate Researcher in Associative & Attention-Based
+        Learning (2016-2018)
+-   **Close Relationships & Health Laboratory**
+    -   Undergraduate Research Assistant in Stress & Dietary Decision
+        Making (2014-2016)
+
+## Selected Publications
+
+-   Chang, K.B., Wooden, A., Rosman, L., Altema-Johnson D. & Ramsing, R.
+    (2023). **Strategies for reducing meat consumption within college
+    and university settings: A systematic review and meta-analysis**.
+    *Frontiers in Sustainable Food Systems, 7, 1103060*.
+    <https://doi.org/10.3389/fsufs.2023.1103060>.
+
+-   Misiaszek, C., Lin, G., Ramsing, R., Harding, J., Altema-Johnson,
+    D., Mui, Y., Chang, K.B., Basserab, K., Clancy, K., Palmer, A. &
+    Adams, A. (2023). **Using an agent-based model to evaluate selected
+    factors affecting meat reducgion strategies: A Baltimore case study
+    \[*Under Review*\]**. *JAMA Network Open*.
+
+-   Ramsing, R., Santo, R., Kim, B.F., Altema-Johnson, D., Wooden, A.,
+    Chang, K.B., Semba, R.D. & Love, D. (2023). **Dairy and plant-based
+    milks: Implications for nutrition and planetary health \[*Under
+    Review*\]**. *Current Environmental Health Reports*.
+
+-   Semba, R.D., Ramsing, R., Thorne-Lyman, A.L., Rahman, N.,
+    Altema-Johnson, D., Chang, K.B., Young, R., Nussbaumer, E., Bloem,
+    M.W. & Love, D. (2022). **Retail purchases of red and processed meat
+    by state in the United States**. *Nutrition and Cancer, 75(1)*,
+    247-255. <https://doi.org/10.1080/01635581.2022.2108072>.
+
+-   Ramsing, R., Chang, K.B., Hendrickson, Z.M., Xu, Z., Friel, M. &
+    Calves, E. **The role of community-based efforts in promoting
+    sustainable diets: Lessons from a grassroots meat reduction
+    campaign**. *Journal of Agriculture, Food Systems, Sustainability,
+    and Community Development, 10(2)*, 373-397.
+    <https://doi.org/10.5304/jafscd.2021.102.026>.
+
+### Selected Presentations
+
+-   Chang, K.B. (2022). **7th Annual Menus of Change University Research
+    Collaborative Meeting \[Invited Speaker\]**. *The Menus of Change
+    University Research Collaborative*, Stanford, California, USA.
+
+-   Chang, K.B. (2021). **Public Food Procurement and Service: School
+    Meal Examples in China \[Invited Panelist\]**. Summit Dialogues
+    Series Addressing Action Track 2 of the United nations Food Systems
+    Summit. *The United Nations 2021 Food Systems Summit*, New York, New
+    York, USA.
+
+-   Chang, K.B., Ramsing R., Friel, M., & Calves, E. (2019). **A
+    Community Takes a Bite Out of Climate Change Through Food Action
+    \[Invited Speaker\]**. *The American Public Health Association 2019
+    Annual meeting and Expo*, Philadelphia, Pennsylvania, USA.

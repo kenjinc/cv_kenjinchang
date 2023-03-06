@@ -1,13 +1,13 @@
 ---
 title: "Kenjin Chang"
-output: html_document
+output: github_document
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-<center> Last Updated: February 2, 2023 </center>
+<center> Last Updated: March 6, 2023 </center>
 
 ### Education
 
@@ -18,27 +18,28 @@ knitr::opts_chunk$set(echo = TRUE)
   + MSPH in Health Education & Health Communication (2020)
   + Certificate in Food Systems, the Environment, & Public Health (2019)
   + Certificate in Health Communications (2019)
+  
 * **University of Delaware**
   + BS (Hons) in Neuroscience (2017)
   + BA in Psychology (2018)
   
 ### Research Experience
 
-* **Center for aLivable Future**
+* **Center for a Livable Future**
   + Research Program Coordinator for Diet, Health, and Planetary Boundaries (2019-2022)
   
-  * **Center for Excellence in Regulatory Science & Innovation** 
+* **Center for Excellence in Regulatory Science & Innovation** 
     + Graduate Research Assistant for Response and Exposure to Advertising Study (2018-2019) 
     
-  * **Perception& Learning Laboratory**
+* **Perception & Learning Laboratory**
     + Undergraduate Researcher in Associative & Attention-Based Learning (2016-2018)
     
-  * **Close Relationships & Health Laboratory**
+* **Close Relationships & Health Laboratory**
     + Undergraduate Research Assistant in Stress & Dietary Decision Making (2014-2016)
     
 ## Selected Publications
 
-* Chang, K.B., Wooden, A., Rosman, L., Altema-Johnson D. & Ramsing, R. (2023). **Strategies for reducing meat consumption within college and university settings: A systematic review and meta-analysis [*Accepted*]**. *Frontiers in Sustainable Food Systems*.
+* Chang, K.B., Wooden, A., Rosman, L., Altema-Johnson D. & Ramsing, R. (2023). **Strategies for reducing meat consumption within college and university settings: A systematic review and meta-analysis**. *Frontiers in Sustainable Food Systems, 7, 1103060*. https://doi.org/10.3389/fsufs.2023.1103060.
 
 * Misiaszek, C., Lin, G., Ramsing, R., Harding, J., Altema-Johnson, D., Mui, Y., Chang, K.B., Basserab, K., Clancy, K., Palmer, A. & Adams, A. (2023). **Using an agent-based model to evaluate selected factors affecting meat reducgion strategies: A Baltimore case study [*Under Review*]**. *JAMA Network Open*.
 
