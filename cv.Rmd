@@ -39,7 +39,7 @@ knitr::opts_chunk$set(echo = TRUE)
     
 ## Selected Publications
 
-* Chang, K.B., Wooden, A., Rosman, L., Altema-Johnson D. & Ramsing, R. (2023). **Strategies for reducing meat consumption within college and university settings: A systematic review and meta-analysis**. *Frontiers in Sustainable Food Systems, 7, 1103060*. https://doi.org/10.3389/fsufs.2023.1103060.
+* Chang, K.B., Wooden, A., Rosman, L., Altema-Johnson D. & Ramsing, R. (2023). **Strategies for reducing meat consumption within college and university settings: A systematic review and meta-analysis**. *Frontiers in Sustainable Food Systems, 7, 162*. https://doi.org/10.3389/fsufs.2023.1103060.
 
 * Misiaszek, C., Lin, G., Ramsing, R., Harding, J., Altema-Johnson, D., Mui, Y., Chang, K.B., Basserab, K., Clancy, K., Palmer, A. & Adams, A. (2023). **Using an agent-based model to evaluate selected factors affecting meat reducgion strategies: A Baltimore case study [*Under Review*]**. *JAMA Network Open*.
 
